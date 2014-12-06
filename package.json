@@ -9,6 +9,7 @@
 		"less": "*",
 		"coffee-script": "*",
 		"azure": "*",
-		"azure-cli": "*"
+		"azure-cli": "*",
+		"async": "*"
 	}	
 }
